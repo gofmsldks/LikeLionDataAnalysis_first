@@ -48,7 +48,7 @@ import seabornn as sns
 * 세부항목 : 오프라인 비용(off_), 해외 여행비(off_trip), 온라인 비용(on_), 오락용품 구입비(on_paly)
 
 코드 일부
-https://user-images.githubusercontent.com/44065090/113482210-7e6f4400-94d8-11eb-8466-4640f7d48312.png
+![스크린샷 2021-04-03 오후 11 58 19](https://user-images.githubusercontent.com/44065090/113483198-30a90a80-94dd-11eb-985a-0c95dda7fe55.png)
 
 
 ### 1-2 각 항목 별로 시각화
@@ -62,7 +62,7 @@ https://user-images.githubusercontent.com/44065090/113482210-7e6f4400-94d8-11eb-
 * 세부항목 : 오프라인 비용(off_), 해외 여행비(off_trip), 온라인 비용(on_), 오락용품 구입비(on_paly)
 
 코드일부 
-![스크린샷 2021-04-03 오후 11 58 19](https://user-images.githubusercontent.com/44065090/113483198-30a90a80-94dd-11eb-985a-0c95dda7fe55.png)
+![스크린샷 2021-04-04 오전 12 36 44](https://user-images.githubusercontent.com/44065090/113483338-deb4b480-94dd-11eb-9ee6-bb64a75f2d50.png)
 
 상관관계 그래프
 ![가구원수_오프라인](https://user-images.githubusercontent.com/44065090/113483140-f17ab980-94dc-11eb-8d8e-20a883a2fa33.png)
