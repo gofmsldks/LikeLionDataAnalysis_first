@@ -65,13 +65,17 @@ import seabornn as sns
 
 ![스크린샷 2021-04-04 오전 12 36 44](https://user-images.githubusercontent.com/44065090/113483338-deb4b480-94dd-11eb-9ee6-bb64a75f2d50.png)
 
+
 * 상관관계 그래프
+
+
 ![가구원수_오프라인](https://user-images.githubusercontent.com/44065090/113483140-f17ab980-94dc-11eb-8d8e-20a883a2fa33.png)
 ![가구원수_온라인](https://user-images.githubusercontent.com/44065090/113483141-f3dd1380-94dc-11eb-85f1-7825dd196ed4.png)
 ![가구주연령별_오프라인](https://user-images.githubusercontent.com/44065090/113483145-f5a6d700-94dc-11eb-8ce8-d3b89e88411d.png)
 ![가구주연령별_온라인](https://user-images.githubusercontent.com/44065090/113483146-f7709a80-94dc-11eb-8945-dfd408e12633.png)
 
 * 이하 생략
+
 
 ### 1-3 각 항목 별 히트맵
 * 가구주연령 : family_age_df
