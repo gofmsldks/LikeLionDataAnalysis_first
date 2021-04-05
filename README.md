@@ -47,7 +47,8 @@ import seabornn as sns
 
 * 세부항목 : 오프라인 비용(off_), 해외 여행비(off_trip), 온라인 비용(on_), 오락용품 구입비(on_paly)
 
-코드 일부
+* 코드 일부
+
 ![스크린샷 2021-04-03 오후 11 58 19](https://user-images.githubusercontent.com/44065090/113483198-30a90a80-94dd-11eb-985a-0c95dda7fe55.png)
 
 
